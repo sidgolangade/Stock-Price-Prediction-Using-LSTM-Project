@@ -13,8 +13,7 @@ CLOSING Rate from Dataset:
 
 Predictions:
 
-![alt text](https://github.com/imsid777/Stock-Price-Prediction-Using-LSTM-Project/blob/master/Stock%20Market%20Price%20Prediction%20Project%20using%20LSTM/Output%20Images/Screenshot%202020-07-11%20at%207.26.12%20p.m..jpg)
+![alt text](https://github.com/sidgolangade/Stock-Price-Prediction-Using-LSTM-Project/blob/master/Stock%20Market%20Price%20Prediction%20Project%20using%20LSTM/Output%20Images/Screenshot%202020-07-12%20at%2011.20.13%20a.m..jpg)
 
-![alt text](https://github.com/imsid777/Stock-Price-Prediction-Using-LSTM-Project/blob/master/Stock%20Market%20Price%20Prediction%20Project%20using%20LSTM/Output%20Images/Screenshot%202020-07-11%20at%207.26.25%20p.m..jpg)
+![alt text](https://github.com/sidgolangade/Stock-Price-Prediction-Using-LSTM-Project/blob/master/Stock%20Market%20Price%20Prediction%20Project%20using%20LSTM/Output%20Images/Screenshot%202020-07-12%20at%2011.20.40%20a.m..jpg)
 
-![alt text](https://github.com/imsid777/Stock-Price-Prediction-Using-LSTM-Project/blob/master/Stock%20Market%20Price%20Prediction%20Project%20using%20LSTM/Output%20Images/Screenshot%202020-07-11%20at%207.26.34%20p.m..jpg)
